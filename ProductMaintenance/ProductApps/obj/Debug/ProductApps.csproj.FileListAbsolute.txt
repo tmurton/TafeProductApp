@@ -64,3 +64,16 @@ C:\TafeSA\2019_S1\5TSD\Resources\Assessments\Student Files\Test 1 - Student File
 C:\TafeSA\2019_S1\5TSD\Resources\Assessments\Student Files\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
 C:\TafeSA\2019_S1\5TSD\Resources\Assessments\Student Files\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
 C:\TafeSA\2019_S1\5TSD\Resources\Assessments\Student Files\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csprojResolveAssemblyReference.cache
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+D:\TAFE\Y2S1\5TSD\W8 - Test\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
