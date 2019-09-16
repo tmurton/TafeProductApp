@@ -40,7 +40,7 @@ namespace ProductApps {
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
-        #line 11 "..\..\MainWindow.xaml"
+        #line 12 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBlock totalPaymentTextBlock;
         
@@ -48,7 +48,7 @@ namespace ProductApps {
         #line hidden
         
         
-        #line 12 "..\..\MainWindow.xaml"
+        #line 13 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBlock totalChargeTextBlock;
         
@@ -56,17 +56,9 @@ namespace ProductApps {
         #line hidden
         
         
-        #line 13 "..\..\MainWindow.xaml"
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox productTextBox;
-        
-        #line default
-        #line hidden
-        
-        
         #line 14 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox priceTextBox;
+        internal System.Windows.Controls.TextBlock wrapTextBlock;
         
         #line default
         #line hidden
@@ -74,7 +66,7 @@ namespace ProductApps {
         
         #line 15 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox quantityTextBox;
+        internal System.Windows.Controls.TextBox productTextBox;
         
         #line default
         #line hidden
@@ -82,7 +74,7 @@ namespace ProductApps {
         
         #line 16 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.Button calculateButton;
+        internal System.Windows.Controls.TextBox priceTextBox;
         
         #line default
         #line hidden
@@ -90,13 +82,29 @@ namespace ProductApps {
         
         #line 17 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.Button clearButton;
+        internal System.Windows.Controls.TextBox quantityTextBox;
         
         #line default
         #line hidden
         
         
         #line 18 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button calculateButton;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 19 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button clearButton;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 20 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button closeButton;
         
@@ -140,36 +148,39 @@ namespace ProductApps {
             this.totalChargeTextBlock = ((System.Windows.Controls.TextBlock)(target));
             return;
             case 3:
-            this.productTextBox = ((System.Windows.Controls.TextBox)(target));
+            this.wrapTextBlock = ((System.Windows.Controls.TextBlock)(target));
             return;
             case 4:
-            this.priceTextBox = ((System.Windows.Controls.TextBox)(target));
+            this.productTextBox = ((System.Windows.Controls.TextBox)(target));
             return;
             case 5:
-            this.quantityTextBox = ((System.Windows.Controls.TextBox)(target));
+            this.priceTextBox = ((System.Windows.Controls.TextBox)(target));
             return;
             case 6:
+            this.quantityTextBox = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 7:
             this.calculateButton = ((System.Windows.Controls.Button)(target));
             
-            #line 16 "..\..\MainWindow.xaml"
+            #line 18 "..\..\MainWindow.xaml"
             this.calculateButton.Click += new System.Windows.RoutedEventHandler(this.calculateButton_Click);
             
             #line default
             #line hidden
             return;
-            case 7:
+            case 8:
             this.clearButton = ((System.Windows.Controls.Button)(target));
             
-            #line 17 "..\..\MainWindow.xaml"
+            #line 19 "..\..\MainWindow.xaml"
             this.clearButton.Click += new System.Windows.RoutedEventHandler(this.clearButton_Click);
             
             #line default
             #line hidden
             return;
-            case 8:
+            case 9:
             this.closeButton = ((System.Windows.Controls.Button)(target));
             
-            #line 18 "..\..\MainWindow.xaml"
+            #line 20 "..\..\MainWindow.xaml"
             this.closeButton.Click += new System.Windows.RoutedEventHandler(this.closeButton_Click);
             
             #line default
